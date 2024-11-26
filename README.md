@@ -6,9 +6,9 @@
 
 - 👨‍🎓 I’m an Undergraduate Informatics Student
 
-- 🔭 I’m a Data Science and Frontend Development Enthusiast
+- 🔭 I’m a Machine Learning and Frontend Development Enthusiast
 
-- 🌱 I’m currently learning **Data Visualization and Machine Learning**
+- 🌱 I’m currently learning **Machine Learning and Big Data**
 
 - 📫 How to reach me **alexanderokt99@gmail.com**
 
