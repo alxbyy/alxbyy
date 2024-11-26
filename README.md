@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **Machine Learning and Big Data**
 
-- 📫 How to reach me **alexanderokt99@gmail.com**
+- 📫 How to reach me **alexanderbryan03@gmail.com**
 
 - ⚡ Fun fact **I like music and playing games**
 
